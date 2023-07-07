@@ -1,0 +1,13 @@
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\bin\Debug\netcoreapp3.1\BasicsTutorial.exe
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\bin\Debug\netcoreapp3.1\BasicsTutorial.deps.json
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\bin\Debug\netcoreapp3.1\BasicsTutorial.runtimeconfig.json
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\bin\Debug\netcoreapp3.1\BasicsTutorial.runtimeconfig.dev.json
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\bin\Debug\netcoreapp3.1\BasicsTutorial.dll
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\bin\Debug\netcoreapp3.1\BasicsTutorial.pdb
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\obj\Debug\netcoreapp3.1\BasicsTutorial.csproj.AssemblyReference.cache
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\obj\Debug\netcoreapp3.1\BasicsTutorial.AssemblyInfoInputs.cache
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\obj\Debug\netcoreapp3.1\BasicsTutorial.AssemblyInfo.cs
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\obj\Debug\netcoreapp3.1\BasicsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\obj\Debug\netcoreapp3.1\BasicsTutorial.dll
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\obj\Debug\netcoreapp3.1\BasicsTutorial.pdb
+C:\Users\emirs\source\repos\BasicsTutorial\BasicsTutorial\obj\Debug\netcoreapp3.1\BasicsTutorial.genruntimeconfig.cache
