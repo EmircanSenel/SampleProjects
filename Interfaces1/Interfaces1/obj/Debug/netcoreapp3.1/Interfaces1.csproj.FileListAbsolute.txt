@@ -1,0 +1,13 @@
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.csproj.AssemblyReference.cache
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.AssemblyInfoInputs.cache
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.AssemblyInfo.cs
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.csproj.CoreCompileInputs.cache
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.exe
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.deps.json
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.runtimeconfig.json
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.runtimeconfig.dev.json
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.dll
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.pdb
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.dll
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.pdb
+C:\Users\emirs\source\repos\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.genruntimeconfig.cache

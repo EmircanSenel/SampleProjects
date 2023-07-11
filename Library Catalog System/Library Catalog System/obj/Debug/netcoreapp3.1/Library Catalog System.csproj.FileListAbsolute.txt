@@ -1,0 +1,13 @@
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\obj\Debug\netcoreapp3.1\Library Catalog System.csproj.AssemblyReference.cache
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\obj\Debug\netcoreapp3.1\Library Catalog System.AssemblyInfoInputs.cache
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\obj\Debug\netcoreapp3.1\Library Catalog System.AssemblyInfo.cs
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\obj\Debug\netcoreapp3.1\Library Catalog System.csproj.CoreCompileInputs.cache
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\bin\Debug\netcoreapp3.1\Library Catalog System.exe
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\bin\Debug\netcoreapp3.1\Library Catalog System.deps.json
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\bin\Debug\netcoreapp3.1\Library Catalog System.runtimeconfig.json
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\bin\Debug\netcoreapp3.1\Library Catalog System.runtimeconfig.dev.json
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\bin\Debug\netcoreapp3.1\Library Catalog System.dll
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\bin\Debug\netcoreapp3.1\Library Catalog System.pdb
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\obj\Debug\netcoreapp3.1\Library Catalog System.dll
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\obj\Debug\netcoreapp3.1\Library Catalog System.pdb
+C:\Users\emirs\source\repos\Library Catalog System\Library Catalog System\obj\Debug\netcoreapp3.1\Library Catalog System.genruntimeconfig.cache
